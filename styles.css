@@ -1,0 +1,40 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    background: linear-gradient(rgba(0, 0, 225,0.5), rgba(255,0,0,0.5)),url("img/bg.jpg");
+    background-size: 100% 100%}.card{padding: 30px 40px;margin-top: 60px;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #ffffff !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}   
+
+h1 {
+
+    color: white;
+}
+
+p {
+   color: white; 
+}

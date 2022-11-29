@@ -1,0 +1,74 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font: 100% sans-serif;
+}
+
+
+.logo {
+    height: 110px;
+    width: 110px;
+    /*margin-top: 20px;*/
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #000000 !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.landing{
+    background: linear-gradient(rgba(95, 114, 189,0.8), rgba(155,35,234,0.7)),url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding-top: 40px;
+}
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: linear-gradient(rgba(0, 0, 225,0.5), rgba(255,0,0,0.5)),url("https://thumbs.dreamstime.com/b/tel%C3%A9fono-m%C3%B3vil-sobre-un-fondo-de-paneles-madera-clara-en-marco-hojas-ex%C3%B3ticas-brillantes-banner-para-publicidad-sitios-web-173697951.jpg" );
+  background-repeat: no-repeat;
+  background-size: 100% 100%}.card{padding: 30px 40px;margin-top: 60px;
+
+}
+
+.glyphicon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'glyphicon-chevron-up';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
